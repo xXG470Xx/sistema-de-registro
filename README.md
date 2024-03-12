@@ -4,4 +4,6 @@
 
 para ejecutar el sistema, debes poner :
 
-```asas```
+```Hola```
+
+Sistema de resgistro 2 
